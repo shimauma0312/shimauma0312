@@ -1,4 +1,4 @@
-![logo_transparent](https://user-images.githubusercontent.com/86759249/190704267-a99a9983-ec0b-41c5-bd00-59262f6b3d73.png)
+![logo_transparent2](https://user-images.githubusercontent.com/86759249/190704465-12befb92-d0e4-4a8f-9efe-14daad618403.png)
 
 <br><br><br><br>
 
