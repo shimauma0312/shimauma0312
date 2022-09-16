@@ -1,6 +1,6 @@
 ![logo_transparent2](https://user-images.githubusercontent.com/86759249/190704465-12befb92-d0e4-4a8f-9efe-14daad618403.png)
 
-<br><br><br><br>
+<br><br>
 
 ## 💬 Message
 
