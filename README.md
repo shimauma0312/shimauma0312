@@ -6,6 +6,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimauma0312&layout=compact&theme=dracula" width=40%>
 
+ <a href="http://twitter.com/miyamaru000">
+    <img width=100% height="100%" src="https://img.shields.io/twitter/follow/miyamaru000?label=Twitter&logo=twitter&style=flat" />
+  </a>
 
 ## 💬 Message
 
