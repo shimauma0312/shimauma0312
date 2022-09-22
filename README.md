@@ -4,9 +4,9 @@
 
 <img width = 100 src = "https://user-images.githubusercontent.com/86759249/191177068-ef450c6f-9cc6-48ca-8bd3-7cd78a797230.jpg">
 
-Follow！！:
+Follow！！
  <a href="http://twitter.com/miyamaru000">
-    <img width=10% height="29%" src="https://img.shields.io/twitter/follow/miyamaru000?label=Twitter&logo=twitter&style=flat" />
+    <img width=15% height="29%" src="https://img.shields.io/twitter/follow/miyamaru000?label=Twitter&logo=twitter&style=flat" />
  </a>
  
 <br><br>
