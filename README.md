@@ -39,8 +39,6 @@ Follow！！
 ## 💬 Message
 
 
-### p課題漏洩したらしばく
-
 ##
 
 <br><br><br><br>
