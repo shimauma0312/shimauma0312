@@ -32,12 +32,6 @@ https://github.com/shimauma0312/Pjs_pastelGenerater
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shimauma0312&theme=tokyonight)
 
 
- 
-
-
-## 💬 Message
-
-
 ##
 
 <br><br><br><br>
