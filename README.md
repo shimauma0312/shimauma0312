@@ -23,17 +23,6 @@ https://github.com/shimauma0312/Pjs_pastelGenerater
 
 ![](https://activity-graph.herokuapp.com/graph?username=shimauma0312&theme=github)
 
-
-<a>
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shimauma0312&theme=dracula&utcOffset=8">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimauma0312&layout=compact&theme=dracula">
- </a>
- 
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shimauma0312&theme=tokyonight)
-
-
-##
-
 <br><br><br><br>
 
 <h1 align="center">🎶ＲＥＳＰＥＣＴ🎶</h1>
