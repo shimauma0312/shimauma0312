@@ -17,13 +17,11 @@ https://github.com/shimauma0312/Pjs_pastelGenerater
 ## 
  
  <a width=50 height=50>
- <img  width=100% height=100% src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shimauma0312&theme=dracula">
- 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shimauma0312&theme=dracula)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shimauma0312&theme=dracula)
- 
- </a>
+ <img width=100% height=100% src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shimauma0312&theme=dracula">
 
-![](https://activity-graph.herokuapp.com/graph?username=shimauma0312&theme=github)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shimauma0312&theme=dracula)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shimauma0312&theme=dracula)
+ </a>
 
 <br><br><br><br>
 
