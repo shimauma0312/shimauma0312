@@ -1,14 +1,3 @@
-[ ![miwashutaro0611](https://komarev.com/ghpvc/?username=shimaua0312)
-](https://github.com/shimaua0312/shimaua0312/)
-
-<!--![logo_transparent2](https://user-images.githubusercontent.com/86759249/190704465-12befb92-d0e4-4a8f-9efe-14daad618403.png)-->
-![giphy](https://user-images.githubusercontent.com/86759249/190930562-97a3ff25-8cb9-4ba6-b5bb-e09499cb80fd.gif)
-
-<img width = 100 src = "https://user-images.githubusercontent.com/86759249/191177068-ef450c6f-9cc6-48ca-8bd3-7cd78a797230.jpg">
-
-https://github.com/shimauma0312/Pjs_pastelGenerater
- 
-<br><br>
 
 ## Language and tool
 
