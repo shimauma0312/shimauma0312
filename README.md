@@ -1,7 +1,7 @@
 <div style="display: flex; align-items: center; margin-bottom: 0;">
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shimauma0312&theme=swift)
-  <img src="https://github.com/shimauma0312/shimauma0312/blob/main/kita-kita-ikuyo-unscreen.gif" alt="Header Image" style="height: 200px;">
+  <img src="https://github.com/shimauma0312/shimauma0312/blob/main/kita-kita-ikuyo.gif" alt="Header Image" style="height: 200px;">
 </div>
 
 
