@@ -1,8 +1,7 @@
 <div style="display: flex; align-items: center; margin-bottom: 0;">
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shimauma0312&theme=swift)
-  <img src="https://github.com/shimauma0312/shimauma0312/blob/main/kita-kita-ikuyo.gif" alt="Header Image" style="height: 200px; border-radius: 20px;">
-  
+  <img src="https://github.com/shimauma0312/shimauma0312/blob/main/kita-kita-ikuyo-unscreen.gif#gh-light-mode-only" alt="Light Mode Image" style="height: 200px;"><img src="https://github.com/shimauma0312/shimauma0312/blob/main/kita-kita-ikuyo.gif#gh-dark-mode-only" alt="Dark Mode Image" style="height: 200px;">
 </div>
 
 <a width=50 height=50>
