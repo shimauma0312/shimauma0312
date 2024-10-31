@@ -1,3 +1,7 @@
+<h1>𝘏𝘦𝘺 𝘵𝘩𝘦𝘳𝘦! 🐾</h1>
+𝙿𝚎𝚢𝚘𝚞𝚗𝚐 𝚈𝚊𝚔𝚒𝚜𝚘𝚋𝚊 𝚒𝚜 𝚕𝚒𝚏𝚎 🍜
+<h1></h1>
+
 <div style="display: flex; align-items: center; margin-bottom: 0;">
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shimauma0312&theme=swift)
@@ -11,6 +15,6 @@
  
 </a>
 
-## My Skills
+## 𐊰𐊲 𐊖𐊋𐊦𐊩𐊩𐊖
 [![My Skills](https://skillicons.dev/icons?i=docker,discord,github,gitlab,go,java,js,maven,mysql,p5js,php,raspberrypi,ts,vscode)](https://skillicons.dev)
 
