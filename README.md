@@ -1,6 +1,9 @@
-<p align="right" style="margin-bottom: 0;">
+<div style="display: flex; align-items: center; margin-bottom: 0;">
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shimauma0312&theme=swift)
   <img src="https://github.com/shimauma0312/shimauma0312/blob/main/kita-kita-ikuyo-unscreen.gif" alt="Header Image" style="height: 200px;">
-</p>
+</div>
+
 
  <a width=50 height=50>
   
