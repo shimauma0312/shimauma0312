@@ -1,7 +1,4 @@
-<h1>𝘏𝘦𝘺 𝘵𝘩𝘦𝘳𝘦! 🐾</h1>
-𝙿𝚎𝚢𝚘𝚞𝚗𝚐 𝚈𝚊𝚔𝚒𝚜𝚘𝚋𝚊 𝚒𝚜 𝚕𝚒𝚏𝚎 🍜
-<h1></h1>
-
+<h1>𝙿𝚎𝚢𝚘𝚞𝚗𝚐 𝚈𝚊𝚔𝚒𝚜𝚘𝚋𝚊 𝚒𝚜 𝚕𝚒𝚏𝚎 🍜</h1>
 <div style="display: flex; align-items: center; margin-bottom: 0;">
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shimauma0312&theme=swift)
