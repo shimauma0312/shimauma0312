@@ -1,3 +1,6 @@
+<p align="right" style="margin-bottom: 0;">
+  <img src="https://github.com/shimauma0312/shimauma0312/blob/main/kita-kita-ikuyo-unscreen.gif" alt="Header Image" style="height: 200px;">
+</p>
 
  <a width=50 height=50>
   
