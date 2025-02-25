@@ -13,5 +13,5 @@
 </a>
 
 ## 𐊰𐊲 𐊖𐊋𐊦𐊩𐊩𐊖
-[![My Skills](https://skillicons.dev/icons?i=docker,discord,github,gitlab,go,java,js,maven,mysql,p5js,php,raspberrypi,ts,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,discord,github,gitlab,go,java,js,maven,mysql,p5js,php,raspberrypi,ts,vscode,nuxtjs,pinia)](https://skillicons.dev)
 
