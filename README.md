@@ -1,7 +1,9 @@
+
+![github-header-image](https://github.com/user-attachments/assets/7808c99c-ff50-48b6-a049-9aa949885e41)
+
+
 <p align="center">
-<img align="center" src="https://github.com/shimauma0312/shimauma0312/blob/main/kita-kita-ikuyo-unscreen.gif#gh-light-mode-only" alt="Light Mode Image" style="height: 200px;"><img src="https://github.com/shimauma0312/shimauma0312/blob/main/kita-kita-ikuyo.gif#gh-dark-mode-only" alt="Dark Mode Image" style="height: 200px;">
-< 𝙿𝚎𝚢𝚘𝚞𝚗𝚐 𝚈𝚊𝚔𝚒𝚜𝚘𝚋𝚊 𝚒𝚜 𝚕𝚒𝚏𝚎🍜
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,discord,github,gitlab,go,java,js,maven,mysql,p5js,php,raspberrypi,ts,vscode,nuxtjs,pinia&perline=10&theme=light" /></a>
 </p>
-<p align="center">
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,discord,github,gitlab,go,java,js,maven,mysql,p5js,php,raspberrypi,ts,vscode,nuxtjs,pinia&perline=7&theme=light" /></a>
-</p>
+
+<img  src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" style="height: 200px;">
